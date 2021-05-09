@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <home msg="Hello Vue 3 + Vite" />
+  <home  />
 </template>
 
 
